@@ -3,7 +3,7 @@ title: testing testing
 timezone: UTC
 collections:
   posts:
-    title: Posts
+    title: The City of Austin Emergency content
     output: true
   uploads:
     title: Uploads
