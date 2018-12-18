@@ -2,9 +2,6 @@
 title: testing testing
 timezone: UTC
 collections:
-  notices:
-    title: Notices
-    output: true
   posts:
     title: The City of Austin Emergency content
     output: true
